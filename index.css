@@ -200,9 +200,10 @@ a {
 
 .grid {
     display: flex;
+    justify-content: space-between;
 }
 .grid .col {
-    width: 50%;
+    width: calc(50% - .5rem);
     height: 100%;
     display: flex;
     justify-content: flex-start;
