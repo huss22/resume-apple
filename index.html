@@ -40,39 +40,41 @@
                     </div>
                 </div>
                 <div class="right">
-                    <div class="card collapsed" v-for="(job,i) in data.experience.list" :id="`card-${i}`">
-                        <div class="title">
-                            <h3 style="margin-bottom: 0.1rem">{{job.role}}</h3>
-                            <small>{{job.start}} - {{job.end}}</small>
-                        </div>
-                        <h6>{{job.company.name}}, {{job.company.location}}</h6>
-                        <div class="collapsible">
-                            <div class="sep"></div>
-                            <div class="info">
-                                <div class="icon">
-                                    <i class="mdi mdi-domain"></i>
+                    <div class="card-wrapper" v-for="(job,i) in data.experience.list">
+                        <div class="card collapsed" :id="`card-${i}`">
+                            <div class="title">
+                                <h3 style="margin-bottom: 0.1rem">{{job.role}}</h3>
+                                <small>{{job.start}} - {{job.end}}</small>
+                            </div>
+                            <h6>{{job.company.name}}, {{job.company.location}}</h6>
+                            <div class="collapsible">
+                                <div class="sep"></div>
+                                <div class="info">
+                                    <div class="icon">
+                                        <i class="mdi mdi-domain"></i>
+                                    </div>
+                                    <div class="text"><p>
+                                        {{job.company.description}}
+                                    </p></div>
                                 </div>
-                                <div class="text"><p>
-                                    {{job.company.description}}
-                                </p></div>
-                            </div>
-                            <div class="info">
-                                    <div class="icon">
-                                        <i class="mdi mdi-check-box-multiple-outline"></i>
-                                    </div>
-                                    <div class="text">
-                                        <b>Responsibilties</b>
-                                        <div class="list-item" v-for="r in job.responsibilties">{{r}}</div>
-                                    </div>
-                            </div>
-                            <div class="info">
-                                    <div class="icon">
-                                        <i class="mdi mdi-calendar-star"></i>
-                                    </div>
-                                    <div class="text">
-                                        <b>Achievements</b>
-                                        <div class="list-item" v-for="r in job.achievements">{{r}}</div>
-                                    </div>
+                                <div class="info">
+                                        <div class="icon">
+                                            <i class="mdi mdi-check-box-multiple-outline"></i>
+                                        </div>
+                                        <div class="text">
+                                            <b>Responsibilties</b>
+                                            <div class="list-item" v-for="r in job.responsibilties">{{r}}</div>
+                                        </div>
+                                </div>
+                                <div class="info">
+                                        <div class="icon">
+                                            <i class="mdi mdi-calendar-star"></i>
+                                        </div>
+                                        <div class="text">
+                                            <b>Achievements</b>
+                                            <div class="list-item" v-for="r in job.achievements">{{r}}</div>
+                                        </div>
+                                </div>
                             </div>
                         </div>
                         <div class="footer">

@@ -106,12 +106,11 @@ a {
 
 
 .card {
-    width: calc(80% - 3rem);
+    width: calc(100% - 3rem);
     padding: .5rem 1.5rem;
-    border-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
     background: white;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-    margin: .5rem 0rem;
 }
 .card .title {
     width: 100%;
@@ -172,28 +171,19 @@ a {
     margin-bottom: .5rem;
 }
 
-.card .footer {
-    width: calc(100%);
+.card-wrapper .footer {
+    width: 100%;
     height: 2rem;
     display: flex;
     align-items: flex-end;
     justify-content: center;
     font-size: 2rem;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
-.card.collapsed .footer .btn {
-    width: 2rem;
-    height: 2rem;
-    margin-bottom: -.7rem;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    color: #BBB;
-}
 
-.card .footer .btn {
+.card-wrapper .footer .btn {
     width: 2rem;
     height: 2rem;
     border-radius: 50%;
@@ -204,8 +194,8 @@ a {
     color: #BBB;
 }
 
-.card .footer .btn:hover {
-    background: #EEE;
+.card-wrapper .footer .btn:hover {
+    color: #514A9D;
 }
 
 .grid {
@@ -242,11 +232,18 @@ a {
 }
 
 .card.collapsed {
-    height: 6rem;
+    height: 4rem;
 }
 .card.collapsed .collapsible {
     display: none;
 }
+.card-wrapper {
+    margin: .5rem 0rem;
+    width: calc(80% - 3rem);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    border-radius: 10px;
+}
+
 @media only screen and (max-width: 750px) {
     .left {
         display: flex;
@@ -259,13 +256,9 @@ a {
         width: 100%;
         margin-top: 2rem;
     }
-    .card {
-        width: calc(100% - 3rem);
-        padding: .5rem 1.5rem;
-        border-radius: 10px;
-        background: white;
-        box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    .card-wrapper {
         margin: .5rem 0rem;
+        width: 100%;
     }
     h3 {
         font-size: .9rem;
