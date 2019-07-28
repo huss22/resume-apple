@@ -40,7 +40,8 @@
                     "Robotic Process Automation setup for Accounts Receivable, payable and payouts. Strategy built and best practices laid out, including governance and controls for audit purposes. ",
                     "Integral lead in finance transformation, introducing technology in order to automate and streamline processing and shift finance away from manual processing of data to garnering meaning and insights from data and creating efficient processes to enable time saving for employees",
                     "Created power BI Dashboard that allowed the group to see the performance of the retail business and provide month end automation saving the equivalent of 1 day at month end for the finance team, allowing them to focus more on value add and investigation"
-                ]
+                ],
+                "skills-used": ["SAP HANA", "Google Analytics","Advanced Excel","VBA","Macros","Microsoft Suite", "SQL","HTML","Javascript","PowerBI","UiPath","Automation Anywhere", "SAP Webi", "SAP BPC", "MPC"]
             },
             {
                 "company": {
@@ -63,7 +64,8 @@
                     "Improved Weekly Reporting, reduced grunt work in preparing reporting through system efficiencies, New process saved 3.5 hours a week",
                     "Recreated the Weekly forecast file for FY17, which was replicated for Other Departments (Bakery and Seafood)",
                     "Introduced Visualisations into Sub-Category Forecast builds to allow Category Managers to easily understand the impact of their Promotional Mix "
-                ]
+                ],
+                "skills-used": ["SAP HANA","Advanced Excel","VBA","Macros","Microsoft Suite","SAP Webi"]
             },
             {
                 "company": {
@@ -96,7 +98,12 @@
                     "Delivered transformation plans with a focus on achievement of specific objectives and targets",
                     "Improved internal audit reports and SOX ratings",
                     "Highlighted Opportunities for growth and changes to the system"
-                ]
+                ],
+                "skills-used": ["TM1", "Hyperion", "HFM","Advanced Excel","VBA","Macros","Microsoft Suite","JDEdwards",
+                    "Business Objects",
+                    "Adobe Analytics",
+                    "Google Analytics",
+                    "Microsoft Suite"]
             },
             {
                 "company": {
@@ -128,7 +135,8 @@
                     "Created ad-hoc dashboard reporting tool that allowed management to run analysis on demand and extract data that was relevant to them from an easy to use interface.",
                     "Utilised System Skills to save 6 days of company time a month as well as time spent by 4 additional staff members during this period, when Pricing new tours. This method was adapted by other brands and helped the company globally.",
                     "Prepared the global pricing of tours, that was backed by sound analysis and market conditions as well as other products that the company puts up for sale.                "
-                ]
+                ],
+                "skills-used":[ "Calypso","Tropics","TMS","Advanced Excel","VBA","Macros","Microsoft Suite"]
             },
             {
                 "company": {
@@ -148,7 +156,8 @@
                 ],
                 "achievements": [
                     "Created an assets extract report that helped report the accuracy of the fixed assets register and make it easier to spot potential errors as well as outline the issues that need to be resolved for increased effectiveness in the register. This process reduced the time spent on analysis by 3-4 hours daily."
-                ]
+                ],
+                "skills-used": ["Advanced Excel","VBA","Macros","Microsoft Suite","Peoplesoft"]
             },
             {
                 "company": {
@@ -156,6 +165,7 @@
                     "location": "CBD Sydney",
                     "description": "Edge Digital technology is a wholly owned subsidiary of AHL, and was a newly formed start up at the time, digital deployment happened. They deal with the installation of digital cinema equipment. "
                 },
+                "skills-used": [ "Professional Sun Systems","NVision","Advanced Excel","VBA","Macros","Microsoft Suite"],
                 "role": "Accountant",
                 "start": "October 2007",
                 "end": "December 2010",
@@ -216,7 +226,9 @@
     ],
     "technical-skills": [
         "SAP HANA",
-        "SAP BPC/MPC",
+        "SAP BPC",
+        "MPC",
+        "SAP Webi",
         "TM1",
         "Hyperion",
         "HFM",
@@ -233,7 +245,7 @@
         "Google Analytics",
         "Microsoft Suite",
         "Professional Sun Systems",
-        "Vision",
+        "NVision",
         "Peoplesoft",
         "Calypso",
         "Tropics",
@@ -246,6 +258,14 @@
         "MySQL",
         "MongoDB",
         "Cloud Development."
+    ],
+    "skills-used": [
+        {
+            "SkillName": "SAP HANA",
+            "SkillPlace": ["Inchcape Australia Limited", "Woolworths Limited"]
+
+        }
+       
     ],
     "skills-summary": [
         {
