@@ -41,7 +41,7 @@
                     "Integral lead in finance transformation, introducing technology in order to automate and streamline processing and shift finance away from manual processing of data to garnering meaning and insights from data and creating efficient processes to enable time saving for employees",
                     "Created power BI Dashboard that allowed the group to see the performance of the retail business and provide month end automation saving the equivalent of 1 day at month end for the finance team, allowing them to focus more on value add and investigation"
                 ],
-                "skills-used": ["SAP HANA", "Google Analytics","Advanced Excel","VBA","Macros","Microsoft Suite", "SQL","HTML","Javascript","PowerBI","UiPath","Automation Anywhere", "SAP Webi", "SAP BPC", "MPC"]
+                "skills-used": ["SAP HANA", "SAP BW","Google Analytics","Advanced Excel","VBA","Macros","Microsoft Suite", "SQL","HTML","Javascript","PowerBI","UiPath","Automation Anywhere", "SAP Webi", "SAP BPC", "MPC"]
             },
             {
                 "company": {
@@ -229,6 +229,7 @@
         "SAP BPC",
         "MPC",
         "SAP Webi",
+        "SAP BW",
         "TM1",
         "Hyperion",
         "HFM",
@@ -240,7 +241,6 @@
         "UiPath",
         "Automation Anywhere",
         "JDEdwards",
-        "Business Objects",
         "Adobe Analytics",
         "Google Analytics",
         "Microsoft Suite",
