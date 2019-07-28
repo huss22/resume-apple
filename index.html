@@ -32,16 +32,24 @@
                     <h3>Technical Skills</h3>
                     <div class="grid">
                         <div class="col">
-                            <div class="tag" v-for="skill in skills1">{{skill}}</div>
+                            <div class="tag" v-for="skill in skills1" @click="filter = skill">{{skill}}</div>
                         </div>
                         <div class="col">
-                            <div class="tag" v-for="skill in skills2">{{skill}}</div>
+                            <div class="tag" v-for="skill in skills2" @click="filter = skill">{{skill}}</div>
                         </div>
                     </div>
                 </div>
                 <div class="right">
-                    <h3 class="right-title">Work Experience</h3>
-                    <div class="card-wrapper" v-for="(job,i) in data.experience.list">
+                                <div class="col right-title">
+                                        <h3>Work Experience</h3>
+                                </div>
+                                <div class="col right-title">
+                                        <i @click="expandall()" class="mdi mdi-unfold-more-horizontal"></i>
+                                                    <i  @click="collapseall()" class="mdi mdi-unfold-less-horizontal"></i>
+                                </div>
+                        
+ 
+                    <div :class="{'card-wrapper': true, 'raised' : isRaised(job)}" v-for="(job,i) in data.experience.list">
                         <div class="card collapsed" :id="`card-${i}`">
                             <div class="title">
                                 <h3 style="margin-bottom: 0.1rem">{{job.role}}</h3>
