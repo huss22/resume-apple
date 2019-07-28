@@ -2,7 +2,8 @@ const vm = new Vue({
     el: '#app',
     data: {
         data: null,
-        cardOpen: {}
+        cardOpen: {},
+        filter: null
     },
     computed: {
         skills1() {
@@ -34,6 +35,22 @@ const vm = new Vue({
                 document.getElementById(`toggle-${i}`).className = 'mdi mdi-chevron-down';
             }
             
+        },
+        isRaised(job) {
+            const skillsUsed = job['skills-used'] ? job['skills-used'] : [];
+            return skillsUsed.indexOf(this.filter) !== -1; 
+        },
+        expandall() {
+                for(var i=0;i< this.data.experience.list.length;i++){
+                    document.getElementById(`card-${i}`).classList.remove('collapsed')
+                    document.getElementById(`toggle-${i}`).className = 'mdi mdi-chevron-up';
+                }
+            },
+        collapseall() {
+                for(var i=0;i< this.data.experience.list.length;i++){
+                    document.getElementById(`card-${i}`).classList.add('collapsed')
+                    document.getElementById(`toggle-${i}`).className = 'mdi mdi-chevron-down';
+                }
+            }
         }
-    }
 })
