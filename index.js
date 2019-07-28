@@ -17,7 +17,7 @@ const vm = new Vue({
         }
     },
     mounted() {
-        fetch('/data.json')
+        fetch('data.json')
             .then(r => r.json())
             .then(r => this.data = r)
     },
