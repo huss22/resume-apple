@@ -198,6 +198,9 @@ a {
     color: #514A9D;
 }
 
+.right-title {
+    width: calc(80% - 3rem);
+}
 .grid {
     display: flex;
     justify-content: space-between;
@@ -269,5 +272,8 @@ a {
     }
     .card h6 {
         font-size: .7rem;
+    }
+    .right-title {
+        width: 100%;
     }
 }
