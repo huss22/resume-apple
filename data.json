@@ -1,0 +1,271 @@
+{
+    "name": "Huss Afzal",
+    "number": "0413-343-420",
+    "email": "hasnain.afzal.22@gmail.com",
+    "profile": "An accomplished reporting and analytics leader with 13 years of experience in broad industries, ranging from FMCG, Travel, Media, Digital Cinema and Digital Advertising.  A proactive team player with strong communication, system, technical and problem solving skills, with the ability to think outside the box and provide solutions that exceed business expectations. Promoted internally in every company.",
+    "experience": {
+        "list": [
+            {
+                "company": {
+                    "name": "Inchscape Australia Limited",
+                    "location": "Norwest",
+                    "description": "Inchcape Australia is a leading player in the automotive services sector operating in the distribution, retail and logistics markets. They import and distribute Subaru, Peugeot and Citroen, and sell retail quality vehicles on behalf of brand partners through Trivett Automotive Retail as well as provide premium parts logistics and vehicle delivery services with AutoNexus."
+                },
+                "start": "August 2016",
+                "end": "Present",
+                "role": "Planning and Analytics Manager",
+                "responsibilties": [
+                    "Lead quarterly forecasting and budgeting cycles as well as Weekly forecast",
+                    "Engage and communicate with senior stakeholders on performance KPIs and key risk areas and opportunities",
+                    "Business partner with sales, marketing, general accounting, tax and legal on the forecasts and seamless integration of actuals",
+                    "Provide the strategic initiatives of the business with insights and modelling including competitor, economic and geographical analysis",
+                    "Development, implementation  and roll out of Australian BI and data strategy",
+                    "Streamline and improve business processes by utilising technology and efficient workflows",
+                    "Development of dashboard reporting and analytics to make timely and accurate business decisions",
+                    "Lead the Business Intelligence team for Australasia to provide insights and analytics to enable better decision making for the business units",
+                    "Manage external consultants, data and technology providers to achieve business goals",
+                    "Review and capture all data sources and analytical sources, internal and external",
+                    "Bridge the gap between paper process by implementing and developing apps",
+                    "Develop career and training plans for the team",
+                    "Lead the Robotic Process Automation team to introduce automation and efficiencies throughout the business, Includes deciding on Vendor, preparing the roll out strategy and actioning the strategy into go live",
+                    "Provide Business intelligence support to Business units",
+                    "Provide insight into SAP rollout for the Retail arm of the business",
+                    "Reduce manual touch points for reporting processes"
+                ],
+                "achievements": [
+                    "Everything delivered from architecture to proof of concept for a cloud based solution to manage customer interactions with the Retail business",
+                    "Commissions portal built to aid payroll in managing and updating the commissions structures for salesman payout. Includes loading of data, automatically calculating a payout figure based on the matrix as well as approval mechanism to capture and meet the controls framework and audit requirements",
+                    "Reporting automated for key reports through the use of BI technology from SAP Hana, Webi and Power BI and insights delivered in real time to key stakeholders.",
+                    "Group consolidation automated through technology to deliver a seamless and integrated forecasting process for the Australasia Business units which encompasses automated actuals loads and submission to the UK group through SAP BPC",
+                    "Robotic Process Automation setup for Accounts Receivable, payable and payouts. Strategy built and best practices laid out, including governance and controls for audit purposes. ",
+                    "Integral lead in finance transformation, introducing technology in order to automate and streamline processing and shift finance away from manual processing of data to garnering meaning and insights from data and creating efficient processes to enable time saving for employees",
+                    "Created power BI Dashboard that allowed the group to see the performance of the retail business and provide month end automation saving the equivalent of 1 day at month end for the finance team, allowing them to focus more on value add and investigation"
+                ]
+            },
+            {
+                "company": {
+                    "name": "Woolworths Limited",
+                    "location": "Bella Vista",
+                    "description": "Woolworths Limited is a major Australian company with extensive retail interest throughout Australia and New Zealand. It is the second largest company in Australia by revenue, and the second largest in New Zealand. In addition, Woolworths Limited is the largest takeaway liquor retailer in Australia, the largest retailer in the world in 2008"
+                },
+                "role": "Business Analyst",
+                "start": "May 2016",
+                "end": "August 2016",
+                "responsibilties": [
+                    "Provide reporting and analysis of actual Sales and GP for trading department",
+                    "Provide accurate forecasting of future Sales and GP for trading department",
+                    "Provide insightful analysis and decision support to the Merchandise Manager and Category Managers",
+                    "Identify and implement opportunities that improve processes across the Commercial Finance Team",
+                    "Participate in annual budget and strategic plan processes",
+                    "Be the finance Seat at the table for Trading Department through strong Business Partnering Skills"
+                ],
+                "achievements": [
+                    "Improved Weekly Reporting, reduced grunt work in preparing reporting through system efficiencies, New process saved 3.5 hours a week",
+                    "Recreated the Weekly forecast file for FY17, which was replicated for Other Departments (Bakery and Seafood)",
+                    "Introduced Visualisations into Sub-Category Forecast builds to allow Category Managers to easily understand the impact of their Promotional Mix "
+                ]
+            },
+            {
+                "company": {
+                    "name": "News Corp Australia",
+                    "location": "Surry Hills",
+                    "description": "News Corp Australia (formerly News Limited) is one of Australia's largest media companies, employing more than 8,000 staff nationwide and approximately 3,000 journalists. The publicly listed company's interests span newspaper and magazine publishing, Internet, pay TV, market research, DVD and film distribution, and film and television production trading assets.                "
+                },
+                "role": "Senior Digital Business Analyst",
+                "start": "September 2016",
+                "end": "April 2016",
+                "responsibilties": [
+                    "Financially responsible for Digital performance of the NSW and The Australian Mastheads, including Revenue, Cost and Analytics",
+                    "Proactively identify and implement reporting and systematic efficiencies across all mastheads",
+                    "Making sure the Digital performance of the brands is best optimised to achieve goals, through analysis and understanding",
+                    "Gauging effectiveness of marketing campaigns, editorial content, digital sales and advertising performance of the NSW and The Australian Mastheads",
+                    "Business Partnering with department heads, to help them better control their cost centre. Includes creating dashboards, graphs and other tools to help understanding.",
+                    "Prepare Annual budgeting and quarterly forecast in accordance with Company policies, IFRS and SOX",
+                    "Prepare and action Month End and provide commentary on allocated Departments on a Weekly, Monthly, quarterly and annual basis",
+                    "Find Opportunities for improvement in procedures within the Finance team and broader business                "
+                ],
+                "achievements": [
+                    "Promoted Twice Internally",
+                    "Developed Daily Dashboards that aided in the decision making of the senior leadership team. The dashboard is presented to the state director of NSW, as well as Senior NSW Advertising and sales leaders on a daily basis powered by Business Objects and TM1.",
+                    "Developed Leave dashboard reporting that helps every department for NSW Mastheads, as well as a national masthead better control their leave planning powered by Workday, Sharepoint and TM1. Saving the department heads time and effectively money for the company.",
+                    "Developed Daily dashboards that help Editorial better control Pagination and Cost Centre Spend powered by TM1, JDEdwards and Business Objects.",
+                    "Owned and took initiative in the Digital Side of the business and helped control and report the analysis driving the digital products, including Web, tablet and Mobile, through the use of heavy data-driven products in the form of Google and Adobe Analytics, amongst other smaller sources.",
+                    "Prepared Forecasts and Budgets for cost centres that have a combined spend of over $160 Million",
+                    "Ad Hoc Analysis that provided savings across the business",
+                    "Automated Rate Card for National Operations Newscorp.",
+                    "Delivered transformation plans with a focus on achievement of specific objectives and targets",
+                    "Improved internal audit reports and SOX ratings",
+                    "Highlighted Opportunities for growth and changes to the system"
+                ]
+            },
+            {
+                "company": {
+                    "name": "AAT Kings",
+                    "location": "Bondi Junction",
+                    "description": "AAT Kings has been showcasing the history, culture and natural splendour of Australia and New Zealand for over 90 years. AAT Kings is part of The Travel Corporation – a group of established and prominent travel companies."
+                },
+                "role": "Pricing and Business Analyst",
+                "start": "October 2011",
+                "end": "August 2013",
+                "responsibilties": [
+                    "Create a template to build the pricing model through sophisticated analysis and understanding of the business.",
+                    "Build and maintain pricing for tour packages on offer, globally including 6 different currencies.",
+                    "Create a budget template to be used by the General Manager of Finance in Budgeting $100 Million+",
+                    "Build and control the reporting function",
+                    "Create reports for executive and sales & Marketing teams to help them better understand financial figures.",
+                    "Create Dashboard Reporting",
+                    "Build forecasting tools for products",
+                    "Build Profit and Loss statements for Tours on offer as well as by selling region",
+                    "Report on Company Gross and Nett Revenue globally by various parameters including but not limited to agents, products, sales person, territory etc…",
+                    "Find Operational Efficiencies through data analysis",
+                    "Report on global financial numbers on a weekly basis",
+                    "Find efficiencies in the reporting and pricing structures"
+                ],
+                "achievements": [
+                    "Promoted Internally within 12 Months.",
+                    "Successfully Rolled Out 2 New Systems; Tropics and TMS",
+                    "Business Partnered with key management from non-financial divisions to Create the Reporting Packs, analytics and Tools for Finance and Operations",
+                    "Created ad-hoc dashboard reporting tool that allowed management to run analysis on demand and extract data that was relevant to them from an easy to use interface.",
+                    "Utilised System Skills to save 6 days of company time a month as well as time spent by 4 additional staff members during this period, when Pricing new tours. This method was adapted by other brands and helped the company globally.",
+                    "Prepared the global pricing of tours, that was backed by sound analysis and market conditions as well as other products that the company puts up for sale.                "
+                ]
+            },
+            {
+                "company": {
+                    "name": "Austar United Communications",
+                    "location": "Surry Hills",
+                    "description": "Austar is an Australian telecommunications company. Its main business activity is being the second largest Subscription Television Company in Australia but it is also involved with internet access and mobile phones."
+                },
+                "role": "Corporate Accountant",
+                "start": "December 2010",
+                "end": "October 2011",
+                "responsibilties": [
+                    "Preparing the market release for the financial quarter",
+                    "Fixed Asset Maintenance for the Subsidiary Ledger",
+                    "Completing the Fixed Asset Reconciliation, which consists of 37 different categories and combined items in excess of 15,000",
+                    "Completing balance sheet reconciliations for accounts, including FBT, payroll, audit fees, R&D, interest payable, management fees, prepayments, due from employees, company credit card.",
+                    "Completing accruals for expenditure as necessary at month end.                "
+                ],
+                "achievements": [
+                    "Created an assets extract report that helped report the accuracy of the fixed assets register and make it easier to spot potential errors as well as outline the issues that need to be resolved for increased effectiveness in the register. This process reduced the time spent on analysis by 3-4 hours daily."
+                ]
+            },
+            {
+                "company": {
+                    "name": "Edge Digital Technology",
+                    "location": "CBD Sydney",
+                    "description": "Edge Digital technology is a wholly owned subsidiary of AHL, and was a newly formed start up at the time, digital deployment happened. They deal with the installation of digital cinema equipment. "
+                },
+                "role": "Accountant",
+                "start": "October 2007",
+                "end": "December 2010",
+                "responsibilties": [
+                    "Preparation of monthly and statutory reports.",
+                    "Managing International currency Transactions mainly with the USD and EUR",
+                    "Completing all journals required for business",
+                    "Preparation and review of the monthly balance sheet reconciliations",
+                    "Review and reconciliation of WIP and Stock accounts",
+                    "Preparation of the monthly BAS for Australia and NZ.",
+                    "Managing Accounts receivable function.",
+                    "Budgets and forecast ",
+                    "Variance analysis to budget, last year and forecast",
+                    "Project modelling",
+                    "Preparing reports and modifying system software to meet business requirements",
+                    "Implement processes and systems for upcoming business ventures",
+                    "Weekly cash flow forecasting"
+                ],
+                "achievements": [
+                    "Promoted Internally within 6 months.",
+                    "Created a database which worked to capture stock and inventory information, this database helped provide managers with useful information that would help in their decision making process of how the stock is being controlled, the location of the stock and why stock is not being received from suppliers. This not only helped the department immensely but also resulted in tens of thousands in savings for the company.",
+                    "Successfully created databases which met the specific requirements of a particular department and project, thus helping management and operational staff to make critical business decisions.",
+                    "Acquired advanced skills in Sun Systems and Vision, including the ability to create vision reports to help in the day to day running of the business and resolve any Sun issues that arise within the company; this helped the company save $200/hour on Sun experts.",
+                    "Actively involved in looking after the global purchasing and analysis of Digital cinema equipment.",
+                    "Dealt with Foreign Transactions on a daily basis. This also helped me garner experience in the GST and Taxation impact of these transactions. "
+                ]
+            }
+        ],
+        "summary": [
+            "Inchcape (2016 to 2018)",
+            "Woolworths (2016 to 2016)",
+            "News Corp (2013 to 2016)"
+        ]
+    },
+    "achievement-summary": [
+        "Reduced data development cost by 70%",
+        "Cut cost by 13% through RPA",
+        "Developed and mentored highly successful and engaged teams",
+        "Introduced Efficiencies in reporting by utilising Data Structures & RPA",
+        "Automated group BPC loads from all ERPs into HANA then back into BPC",
+        "Developed dashboard reporting to help support key decisions through insights and key analysis"
+    ],
+    "education": [
+        {
+            "title": "Chartered Accountant",
+            "subtitle": "",
+            "institution": "Institute of Chartered Accountants Australia",
+            "start": "2011",
+            "end": "2013"
+        },
+        {
+            "title": "B. Of Commerce",
+            "subtitle": "Major in Accounting, Minor in International Business",
+            "institution": "University of New South Wales, Kensington",
+            "start": "2007",
+            "end": "2010"
+        }
+    ],
+    "technical-skills": [
+        "SAP HANA",
+        "SAP BPC/MPC",
+        "TM1",
+        "Hyperion",
+        "HFM",
+        "PowerBI",
+        "Advanced Excel",
+        "SQL",
+        "Macros",
+        "VBA",
+        "UiPath",
+        "Automation Anywhere",
+        "JDEdwards",
+        "Business Objects",
+        "Adobe Analytics",
+        "Google Analytics",
+        "Microsoft Suite",
+        "Professional Sun Systems",
+        "Vision",
+        "Peoplesoft",
+        "Calypso",
+        "Tropics",
+        "TMS",
+        "MYOB",
+        "HTML",
+        "Javascript",
+        "Jquery",
+        "CSS",
+        "MySQL",
+        "MongoDB",
+        "Cloud Development."
+    ],
+    "skills-summary": [
+        {
+            "name": "Leadership",
+            "description": "Lead and managed large scale projects, as well as direct leadership and responsibility for people, that has resulted in highly successful projects and teams over the years."
+        },
+        {
+            "name": "System",
+            "description": "I have a natural system ability that has been evident in all my roles.  I take on the responsibility of managing application/system development projects. By utilising my strong system skills, I’m able to deliver deeper insights and process efficiencies to the Business that go above and beyond expectations."
+        },
+        {
+            "name": "Reporting",
+            "description": "Developed national dashboards and reports to analyse performance, Key metrics and KPIs"
+        }
+    ],
+    "other-skills": [
+        "Proficient programming skills in Web and Cloud Technologies",
+        "Deep Understanding of including ability to program MYSQL and NOSQL backend systems.",
+        "Qualified in Hybrid App Development in Android and iOS",
+        "Experience Using Virtual Machines",
+        "Proficient in RPA, Building Business Apps and Web Solutions"
+    ]
+}

@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Huss Afzal</title>
+    <meta name="description" content="Huss Afzal One Page Resume">
+    <meta name="author" content="Huss Afzal">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="spinner.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Roboto|Ubuntu" rel="stylesheet">
+    <link href="https://cdn.materialdesignicons.com/3.5.95/css/materialdesignicons.min.css" media="all" rel="stylesheet" type="text/css"/>
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <div id="app">
+        <div class="container" v-if="data !== null">
+            <h1>{{data.name}}</h1>
+            <hr>
+            <div class="body">
+                <div class="left">
+                    <p>{{data.profile}}</p>
+                    <h3>Education</h3>
+                    <div class="education-item" v-for="e in data.education">
+                        <h4>{{e.title}}</h4>
+                        <h6>{{e.subtitle}}</h6>
+                        <h6>{{e.institution}}</h6>
+                    </div>
+                    <h3>Technical Skills</h3>
+                    <div class="grid">
+                        <div class="col">
+                            <div class="tag" v-for="skill in skills1">{{skill}}</div>
+                        </div>
+                        <div class="col">
+                            <div class="tag" v-for="skill in skills2">{{skill}}</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="right">
+                    <div class="card collapsed" v-for="(job,i) in data.experience.list" :id="`card-${i}`">
+                        <div class="title">
+                            <h3 style="margin-bottom: 0.1rem">{{job.role}}</h3>
+                            <small>{{job.start}} - {{job.end}}</small>
+                        </div>
+                        <h6>{{job.company.name}}, {{job.company.location}}</h6>
+                        <div class="collapsible">
+                            <div class="sep"></div>
+                            <div class="info">
+                                <div class="icon">
+                                    <i class="mdi mdi-domain"></i>
+                                </div>
+                                <div class="text"><p>
+                                    {{job.company.description}}
+                                </p></div>
+                            </div>
+                            <div class="info">
+                                    <div class="icon">
+                                        <i class="mdi mdi-check-box-multiple-outline"></i>
+                                    </div>
+                                    <div class="text">
+                                        <b>Responsibilties</b>
+                                        <div class="list-item" v-for="r in job.responsibilties">{{r}}</div>
+                                    </div>
+                            </div>
+                            <div class="info">
+                                    <div class="icon">
+                                        <i class="mdi mdi-calendar-star"></i>
+                                    </div>
+                                    <div class="text">
+                                        <b>Achievements</b>
+                                        <div class="list-item" v-for="r in job.achievements">{{r}}</div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="footer">
+                            <div class="btn" @click="toggleCard(i)"><i :id="`toggle-${i}`" class="mdi mdi-chevron-down"></i></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <main id="spinner" v-if="data === null">
+            <div class="loader">Loading...</div>
+        </main>
+    </div>
+    <script src="vue.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>
