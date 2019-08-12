@@ -200,7 +200,32 @@ a {
 
 .right-title {
     width: calc(80% - 3rem);
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
 }
+
+.right-title .actions {
+    margin: 1rem 0rem;
+    display: flex;
+}
+
+.right-title .actions .btn {
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.3rem;
+    color: #777;
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.right-title .actions .btn:hover {
+    background: #EBEBEB;
+}
+
 .grid {
     display: flex;
     justify-content: space-between;
