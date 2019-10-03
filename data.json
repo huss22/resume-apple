@@ -15,18 +15,28 @@
                 "end": "Present",
                 "role": "Planning and Analytics Manager",
                 "responsibilties": [
-                    "Successfully built and executed a Business Intelligence strategy and roadmap for Australia, making sure it is supported by Inchcape globally and follows the same standardised datasets that are available in SAP HANA across other inchcape markets, to leverage global scale",
+                "Build and execute a Business Intelligence strategy and roadmap for Australia, making sure it is supported by Inchcape globally and follows the same standardised datasets that are available in SAP HANA across other inchcape markets, to leverage global scale",
+"Lead the analytics, automation and group consolidation team",
+"Combine internal and external data to aid strategic decisions and track the customer journey",
+"Lead the Finance transformation for Inchcape Australia by unifying and standardising financial, operational and management data structures and systems across all departments and brands within Inchcape Australia",
+"Engage and communicate with senior stakeholders on performance and key risk areas and opportunities",
+"Create reporting and analysis that encompasses process improvements and reduces manual touch points to help the business better understand the data available, working with various teams to build strong relationships and better understand the business, spend and requirements",
+"Roll out SAP locally as the operational and finance lead  for Subaru Australia and Trivett Automotive Retail, working with the global team and local teams to make sure that it is a scalable product that can be taken to other markets and can fit in with the BI strategy as well as the global systems implementation strategy, as well as being flexible enough to meet various local requirements",
+"Work closely and implement  solutions with BW and HANA developers, communicating the business perspective to ensure the correct data structures are respected and built to industry standards and best practices",
+"Lead the Robotic Process Automation team to introduce efficiencies throughout the business, this includes gathering requirements, building strong processes that encompass best practices and follow the governance structure set by Inchcape globally as well as overseeing successful implementation of the automation",
+"Lead group quarterly forecasting and budgeting cycles as well as Weekly forecasts that include meeting statutory requirements both locally as well as reporting to the UK"
+                        ],
+                "achievements": [
+                "Successfully built and executed a Business Intelligence strategy and roadmap for Australia, making sure it is supported by Inchcape globally and follows the same standardised datasets that are available in SAP HANA across other inchcape markets, to leverage global scale",
 "Reporting automated for key reports through the use of BI technology from SAP Hana, Webi and Power BI and insights delivered in real time to key stakeholders.",
-"RPA setup for Accounts Receivable, payable and payouts. Strategy built and best practices laid out, including governance and controls for audit, control and compliance  purposes",
+"RPA setup for Accounts Receivable, payable and payouts. Strategy built and best practices laid out, including governance and controls for audit, control and compliance  purposes",
 "Everything delivered from architecture to proof of concept for a cloud based solution to manage customer interactions with the Retail business",
 "Integral lead in finance transformation, introducing technology in order to automate and streamline processing and shift finance away from manual processing of data to garnering meaning and insights from data and creating efficient processes to enable time saving for employees",
-"Developed custom connectors from Google Analytics and integrated Starcom data along with Blueflag market trends, hitwise, Census data,  carsales along with Polk data to make impactful decisions about where enquiries are, where our competitors are and how to target them using Google Analytics and Google search word data and areas we should be targeting. ",
+"Developed custom connectors from Google Analytics and integrated Starcom data along with Blueflag market trends, hitwise, Census data,  carsales along with Polk data to make impactful decisions about where enquiries are, where our competitors are and how to target them using Google Analytics and Google search word data and areas we should be targeting. ",
 "Developed single data hub for ERP data, external data and Google Analytics data to create insights and track the customer journey, this was a 360 degree customer view consisting of all touch points from website visit to enquiry to purchase, in one easy to access and interpret dashboard",
 "Group consolidation automated through technology to deliver a seamless and integrated forecasting process for the Australasia Business units which encompasses automated actuals loads and submission to the UK group through SAP BPC",
 "Commissions portal built to aid payroll in managing and updating the commissions structures for salesman payout. Includes loading of data, automatically calculating a payout figure based on the matrix as well as approval mechanism to capture and meet the controls framework and audit requirements",
 "Successfully rolled out SAP from a finance and operational systems point of view for inchcape retail and Subaru Australia. This included advising and collaborating with the UK head office to roll out a global chart of accounts as well as processes that scale across multiple regions for fixed assets register, whilst meeting both local taxation and accounting standards"
-    ],
-                "achievements": [
 
                 ],
                 "skills-used": ["SAP HANA", "SAP BW","Google Analytics","Advanced Excel","VBA","Macros","Microsoft Suite", "SQL","HTML","Javascript","PowerBI","UiPath","Automation Anywhere", "SAP Webi", "SAP BPC", "MPC"]
@@ -277,3 +287,4 @@
         "Proficient in RPA, Building Business Apps and Web Solutions"
     ]
 }
+  
